@@ -2,7 +2,7 @@ Professional Portfolio & CI/CD PipelineThis repository contains my personal port
 The project is fully automated using a CI/CD pipeline via GitHub Actions, deploying directly to Microsoft Azure App Service/Static Web Apps.
 
 🚀 Technical Stack:
-   - Frontend: [HTNL/CSS/JS]
+   - Frontend: [HTML/CSS/JS]
    - Cloud Hosting: Microsoft Azure
    - CI/CD: GitHub Actions
    - Domain Management: Azure DNS && Hostinger
