@@ -1,11 +1,11 @@
-Professional Portfolio & CI/CD PipelineThis repository contains my personal portfolio website, built with [Your Framework, e.g., React/Next.js/HTML]. 
+Professional Portfolio & CI/CD PipelineThis repository contains my personal portfolio website, built only with (HTNL/CSS/JS). 
 The project is fully automated using a CI/CD pipeline via GitHub Actions, deploying directly to Microsoft Azure App Service/Static Web Apps.
 
 🚀 Technical Stack:
-   - Frontend: [e.g., React, Tailwind CSS, Framer Motion]
+   - Frontend: [HTNL/CSS/JS]
    - Cloud Hosting: Microsoft Azure
    - CI/CD: GitHub Actions
-   - Domain Management: Azure DNS (if applicable)
+   - Domain Management: Azure DNS && Hostinger
 
      
 🛠 Architecture & Workflow
